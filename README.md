@@ -1,7 +1,7 @@
 # AllScript \\ Update All Everyday
-discord.gg/uB8KYHQ7yw
+discord.gg/uB8KYHQ7yw | Know Hub Discord
 
-- LUCKY BLOCKS Battlegrounds\
+- LUCKY BLOCKS Battlegrounds
 - Tower of Misery
 - Tower of Jump
 - Vehicle Simulator
