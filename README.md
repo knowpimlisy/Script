@@ -10,3 +10,4 @@ Krnl / Synapse x
 - Murder Mystery 2
 - War Simulator
 - Attack Simulator
+- Ninja Legends
