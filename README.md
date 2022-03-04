@@ -1,4 +1,5 @@
 # AllScript \\ Update All Everyday
+discord.gg/uB8KYHQ7yw
 
 - LUCKY BLOCKS Battlegrounds\
 - Tower of Misery
