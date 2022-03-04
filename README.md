@@ -8,3 +8,4 @@ discord.gg/uB8KYHQ7yw | Know Hub Discord
 - Arsenal
 - Murder Mystery 2
 - War Simulator
+- Attack Simulator
