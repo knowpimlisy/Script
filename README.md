@@ -1,4 +1,4 @@
-# AllScript \\ Update All Everyday
+# AllScript \\ Update Everyday
 discord.gg/uB8KYHQ7yw | Know Hub Discord
 
 - LUCKY BLOCKS Battlegrounds
