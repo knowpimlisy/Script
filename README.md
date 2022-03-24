@@ -11,3 +11,4 @@ Krnl / Synapse x
 - War Simulator
 - Attack Simulator
 - Ninja Legends
+- Scary Elevator!
